@@ -37,6 +37,7 @@ img {
 .select{
 	color:red;
 }
+/*
 p {
 	padding-left:5%;
 	padding-right:5%;
@@ -46,6 +47,20 @@ p {
 	text-align: justify;
 	background-color:red;
 	width:75%;
+	border: 5px solid black;
+	border-radius:10px;
+	font-size:20px;
+}
+*/
+p {
+	padding-left:5%;
+	padding-right:5%;
+	padding-top:5%; 
+	padding-bottom:5%;
+	height:25%;
+	text-align: justify;
+	background-color:red;
+	width:88%;
 	border: 5px solid black;
 	border-radius:10px;
 	font-size:20px;
